@@ -1,0 +1,22 @@
+codigo_linea,nombre_linea,id_linea
+10006,M84-C84,1
+10010,H83-M83,2
+10011,L81-D81,3
+10013,M82-L82,4
+10014,M86-K86,5
+10015,M82-L82 CICLOVIA,6
+11,Zona K Calle 26,7
+12,Zona L Carrera 10,8
+30,Zona G NQS Sur,9
+31,Zona F Av. Américas,10
+32,Zona C Av. Suba,11
+33,Zona B AutoNorte,12
+34,Zona H Caracas Sur,13
+35,Zona D Calle 80,14
+36,Zona A Caracas,15
+37,Zona J Eje Ambiental,16
+38,Zona E NQS Central,17
+39,Zona F Calle 13,18
+40,Zona T Ciudad Bolívar,19
+10012,M86-K86 CICLOVIA,20
+10023,L81-D81 CICLOVIA,21

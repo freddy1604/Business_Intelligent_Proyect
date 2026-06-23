@@ -1,0 +1,177 @@
+codigo_estacion,nombre_estacion,id_estacion
+10013,M84 - C84,1
+10023,H83,2
+10024,M83,3
+10022,L81_Ref_CL72,4
+10025,D81_Normal,5
+10026,L81_Normal,6
+10032,M82 - L82_Normal,7
+10033,L82_Ref _CL79,8
+10035,M82_Ref_CL134,9
+10176,M86 - K86,10
+10111,M82 - L82_Normal,11
+06000,Portal Eldorado,12
+06001,Modelia,13
+06002,Normandía,14
+06100,Av. Rojas,15
+06101,El Tiempo - Camara de Comercio de Bogota,16
+06102,Salitre El Greco,17
+06103,CAN,18
+06104,Gobernación,19
+06105,Quinta Paredes,20
+06106,Recinto Ferial,21
+06107,Ciudad Universitaria - Loteria de Bogota,22
+06108,Concejo de Bogotá,23
+06109,Centro Memoria,24
+06111,Universidades,25
+50008,Corral Portal Dorado,26
+10000,Portal 20 de Julio,27
+10001,Country Sur,28
+10002,Av. Primero de Mayo,29
+10003,Ciudad Jardín,30
+10004,Policarpa,31
+10005,Bicentenario,32
+10006,SAN VICTORINO - NEOS CENTRO,33
+10007,Las Nieves,34
+10008,San Diego,35
+10009,Museo Nacional,36
+10010,San Bernardo,37
+07000,Portal Sur JFK Coop. Financiera,38
+07001,PERDOMO,39
+07002,MADELENA,40
+07003,SEVILLANA,41
+07004,VENECIA,42
+07005,ALQUERIA,43
+07006,General Santander,44
+07007,NQS - Calle 38A Sur,45
+07008,NQS - Calle 30 Sur,46
+07010,Bosa,47
+07112,COMUNEROS,48
+07113,SANTA ISABEL,49
+07503,SAN MATEO - C.C. UNISUR,50
+07504,TERREROS,51
+07505,LEON XIII,52
+07506,DESPENSA,53
+57503,Ampliacion San Mateo,54
+05000,Portal Américas,55
+05001,Patio Bonito,56
+05002,Tintal,57
+05005,Transversal 86,58
+05100,Banderas P. Central,59
+05101,Mandalay - Cr.73,60
+05102,Av. Américas - Av. Boyacá,61
+05103,Marsella,62
+05105,Pradera,63
+05107,Américas - Cr.53,64
+03000,Portal Suba,65
+03001,LA CAMPIÑA,66
+03002,SUBA - TV- 91,67
+03003,21 ANGELES,68
+03004,GRATAMIRA,69
+03005,SUBA - AV. BOYACA,70
+03006,NIZA - CALLE 127,71
+03007,HUMEDAL CORDOBA,72
+03009,Av. Suba- Calle 116,73
+03010,PUENTE LARGO,74
+03011,SUBA - CALLE 100,75
+03012,SUBA - CALLE 95,76
+03013,RIO NEGRO,77
+03014,SAN MARTIN,78
+02000,Cabecera Autopista Norte,79
+02001,Centro Comercial Santa Fe,80
+02101,Toberin - Foundever,81
+02102,Calle 161,82
+02103,Mazurén,83
+02104,Calle 146,84
+02105,Calle 142,85
+02200,Alcalá,86
+02201,Prado,87
+02202,Calle 127,88
+02204,Pepe Sierra,89
+02205,Calle 106,90
+02300,Calle 100 - Marketmedios,91
+02302,Virrey,92
+02303,Calle 85,93
+02304,Heroes - Gel hada,94
+02502,Terminal,95
+08000,Portal Tunal,96
+08001,Parque el Tunal,97
+08002,Biblioteca,98
+09000,Cabecera Usme,99
+09001,Molinos,100
+09002,Consuelo,101
+09003,Socorro,102
+09004,Santa Lucía,103
+09100,Calle 40 Sur,104
+09101,Quiroga,105
+09103,Olaya,106
+09104,Restrepo,107
+09105,Río Fucha,108
+09106,Nariño,109
+09107,Hortúa,110
+09108,Hospital,111
+09109,Tercer Milenio,112
+50003,Corral Molinos,113
+04000,Cabecera Calle 80,114
+04001,Quirigua,115
+04002,Carrera 90,116
+04003,Avenida Ciudad de Cali,117
+04004,La Granja,118
+04100,Carrera 77,119
+04101,Minuto de Dios,120
+04102,Avenida Boyaca,121
+04103,Las Ferias,122
+04104,Avenida 68,123
+04105,Carrera 53,124
+04106,Carrera 47,125
+04107,Escuela Militar,126
+04108,El Polo,127
+09111,Calle 19,128
+09113,Calle 22,129
+09114,Calle 26,130
+09115,Calle 34,131
+09116,Avenida 39,132
+09117,Calle 45,133
+09118,Marly,134
+09119,Calle 57,135
+09120,Calle 63,136
+09121,Flores – Areandina,137
+09122,Calle 72,138
+09123,Calle 76 - San Felipe,139
+09110,Avenida Jimenez,140
+14004,Museo del Oro,141
+14005,Las Aguas - Centro Colombo Americano,142
+07101,CASTELLANA,143
+07102,Calle 75 - Zona M,144
+07103,AV. CHILE,145
+07104,7 de Agosto,146
+07105,MOVISTAR ARENA,147
+07106,EL CAMPIN,148
+07107,U. NACIONAL,149
+07108,Av. El Dorado,150
+07109,CAD,151
+07110,PALOQUEMAO,152
+07111,NQS - RICAURTE,153
+07200,Tygua-San José,154
+07201,Guatoque -Veraguas,155
+12000,Puente Aranda,156
+12001,Carrera 43 - COMAPAN,157
+12002,CDS - Carrera 32,158
+12003,Ricaurte,159
+12004,Carrera 22,160
+12007,Zona Industrial,161
+14001,La Sabana,162
+40000,Cable Portal Tunal,163
+40001,Juan Pablo II,164
+40002,Manitas,165
+40003,Mirador del Paraiso,166
+10171,MK86_Normal,167
+08100,Portal Tunal Cable,168
+10034,MK86_Ciclovía,169
+10372,MK86_Aeropuerto_Ciclovía,170
+10172,M82-L82_Ciclovia,171
+10045,D81_Normal,172
+10046,L81_Normal,173
+10047,D81_Ciclovía,174
+10049,L81_Ciclovia,175
+10155,M82_Refuerzo,176
